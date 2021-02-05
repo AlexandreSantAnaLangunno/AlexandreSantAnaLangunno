@@ -1,5 +1,9 @@
 ### Olá Mundo👋
 ---
+Me chamo _Alexandre_
+Comecei na Programação com 13 anos.
+
+
 Eu sou eu ;) (⌐■_■) （￣︶￣）↗　
 <!--
 **AlexandreSantAnaLangunno/AlexandreSantAnaLangunno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
