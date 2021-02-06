@@ -1,0 +1,90 @@
+body{
+    background: linear-gradient(#4AF7FF, #36CEE0, #54D9F5, #40BADE, #4CCAFC);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+#Inicial{
+    text-align: center;
+    border-radius: 25px;
+}
+
+/*
+#Inicial:hover{
+    text-shadow: 2px 3px 15px blanchedalmond;
+    box-shadow: 3px 5px 2px rgba(15, 0, 21, 0.27);
+}
+*/
+
+#Links{
+    margin-top: 150px;
+    border-radius: 10px;
+}
+
+.Area{
+    display: grid;
+    color: aliceblue;
+    text-align: center;
+    text-shadow: 2px 3px 5px ;
+    background-color: rgba(83, 47, 167, 0.379);
+    border-radius: 5px;
+    margin-top: 105px;
+}
+
+.Area:hover{
+        background-color: rgba(59, 33, 121, 0.452);
+
+}
+
+#Conheca{
+    text-shadow: 2px 2px 25px;
+}
+
+.Botão{
+    font-style: italic;
+    background-color: rgba(6, 65, 105, 0.637);
+    border-radius: 15px;
+    margin: auto;
+    width: 90px;
+
+}
+
+.Botão:hover{
+    background-color: rgb(95, 133, 215);
+    border-radius: 18px;
+    box-shadow: 1px 5px 10px rgba(3, 24, 108, 0.708);
+}
+
+.Botão:focus{
+    background-color: rgb(42, 15, 106);
+    border-radius: 13px;
+    box-shadow: 1px 1px 15px rgba(135, 110, 247, 0.564);
+}
+
+.GitHub{
+    background-color: aliceblue;
+    background-size: 1px;
+    border-radius: 30px;
+}
+
+.GitHub:hover{
+    box-shadow: 2px 3px 25px aliceblue;
+}
+
+.Imagem{
+    margin: auto;
+    border-radius: 80px;
+    width: 125px;
+}
+
+#Ola{
+    font-style: normal;
+}
+
+#Ola:hover{
+    font-style: italic;
+}
