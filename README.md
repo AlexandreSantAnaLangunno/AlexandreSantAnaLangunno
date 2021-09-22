@@ -3,7 +3,9 @@
 ---
 
 Me chamo _Alexandre_
-Comecei na Programação com 13 anos.
+Estou tentando aprender Django <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> [LinkedIn](https://www.linkedin.com/in/alexandre-sant-ana-langunno/)
+
 
 ---
 
